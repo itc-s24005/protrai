@@ -1,5 +1,5 @@
 # tax.py
-# 消費税込みの金額を返す関数のあるモジュール
+# 消費税込みの金額を返すpostTaxPrice()関数のあるモジュール
 #
 
 def postTaxPrice(price):
